@@ -14,6 +14,6 @@
 - Click = to compute the result of the entered expression.
 - Click C to clear the display.
 
-  ## Project Link : https://dom-calculator-poorani.netlify.app
+  ## Project Link : https://dom-calculator-nishanth.netlify.app
   
   ![image](https://github.com/user-attachments/assets/c9e14f43-706c-4dc4-919a-aa3827499b38)
